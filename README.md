@@ -1,1 +1,1 @@
-# holbertonschool-binary_trees
+# This repository contains practice with binary trees and the different ways to use them.
